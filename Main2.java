@@ -3,5 +3,6 @@ class Main{
         int a = 3;
 		int b = 4;
 		System.out.println("3 + 4 = "+(a+b));
+		System.out.println("\nFajna nowa linia");
     }
 }
